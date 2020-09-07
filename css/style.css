@@ -42,7 +42,7 @@ img{
     margin: 10px;
 }
 
-#roundedcorners {
+.roundedcorners {
 		border-radius: 25px;
 		border: 2px solid #0021FF;
 		padding: 20px; 
